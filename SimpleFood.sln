@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFood.Web", "SimpleFood.Web\SimpleFood.Web.csproj", "{75EA951F-C981-478F-97EE-9424392384BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFood.Domain", "SimpleFood.Domain\SimpleFood.Domain.csproj", "{ADFCAFE1-67DA-4C79-8AC5-8176985D0232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFood.BussinessLogic", "SimpleFood.BussinessLogic\SimpleFood.BussinessLogic.csproj", "{6B99E214-DD8C-4130-B58C-FC481F091A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFood.Infrastructure", "SimpleFood.Infrastructure\SimpleFood.Infrastructure.csproj", "{3A8D2975-C521-4A43-AA53-9717814AA79A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75EA951F-C981-478F-97EE-9424392384BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EA951F-C981-478F-97EE-9424392384BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EA951F-C981-478F-97EE-9424392384BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EA951F-C981-478F-97EE-9424392384BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFCAFE1-67DA-4C79-8AC5-8176985D0232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFCAFE1-67DA-4C79-8AC5-8176985D0232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFCAFE1-67DA-4C79-8AC5-8176985D0232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFCAFE1-67DA-4C79-8AC5-8176985D0232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B99E214-DD8C-4130-B58C-FC481F091A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B99E214-DD8C-4130-B58C-FC481F091A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B99E214-DD8C-4130-B58C-FC481F091A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B99E214-DD8C-4130-B58C-FC481F091A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8D2975-C521-4A43-AA53-9717814AA79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8D2975-C521-4A43-AA53-9717814AA79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8D2975-C521-4A43-AA53-9717814AA79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8D2975-C521-4A43-AA53-9717814AA79A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
